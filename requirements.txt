@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.2.2+cu118
+torchvision==0.17.2+cu118
+torchaudio==2.2.2+cu118
+streamlit
+arxiv
+pymupdf
+pillow
+requests
+langchain
+groq
+langchain-community
+chromadb
+sentence-transformers
+python-dotenv
+langchain-huggingface
+transformers
+accelerate
+scikit-learn
+peft
